@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="44dp"
+    android:paddingStart="0dp"
+    android:paddingEnd="5dp">
+
+    <!--左边-->
+    <com.alin.hourse.common.view.TouchableImageButton
+        android:id="@+id/imgBtnBack"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:paddingTop="6dp"
+        android:paddingBottom="6dp"
+        android:clickable="true"
+        android:src="@drawable/icon_back"
+        android:background="@color/transparent"
+        android:scaleType="centerInside"
+        android:visibility="visible"
+        android:contentDescription="@string/no_content"
+        android:layout_alignTop="@+id/linearLayout"
+        android:layout_alignParentStart="true"/>
+
+    <TextView
+        android:id="@+id/txtLeft"
+        android:layout_width="wrap_content"
+        android:layout_height="32dp"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:textSize="@dimen/default_text_size"
+        android:textColor="@drawable/black_fg"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:gravity="center"
+        android:includeFontPadding="false"
+        android:background="@color/transparent"
+        android:visibility="gone"/>
+
+    <com.alin.hourse.common.view.TouchableImageButton
+        android:id="@+id/imgBtnLeft"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:paddingTop="6dp"
+        android:paddingBottom="6dp"
+        android:clickable="true"
+        android:scaleType="centerInside"
+        android:background="@color/transparent"
+        android:src="@mipmap/icon_logo_rect"
+        android:visibility="gone"/>
+
+    <!--中间标题部分-->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:id="@+id/bar_center_llyt">
+        <TextView
+            android:id="@+id/txtTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="@dimen/default_title_text_size"
+            android:visibility="gone"
+            />
+
+        <com.alin.hourse.common.view.TouchableImageButton
+            android:id="@+id/imgBtnCenter"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_marginStart="5dp"
+            android:paddingStart="5dp"
+            android:paddingEnd="5dp"
+            android:paddingTop="6dp"
+            android:paddingBottom="6dp"
+            android:clickable="true"
+            android:scaleType="centerInside"
+            android:background="@color/transparent"
+            android:layout_gravity="center"
+            android:visibility="gone"
+            />
+    </LinearLayout>
+
+    <!--右边-->
+    <com.alin.hourse.common.view.TouchableImageButton
+        android:id="@+id/imgBtnRight"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:paddingTop="6dp"
+        android:paddingBottom="6dp"
+        android:clickable="true"
+        android:scaleType="centerInside"
+        android:background="@color/transparent"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/txtRight"
+        android:layout_width="wrap_content"
+        android:layout_height="32dp"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:textSize="@dimen/default_text_size"
+        android:textColor="@drawable/black_fg"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:gravity="center"
+        android:includeFontPadding="false"
+        android:background="@color/transparent"
+        android:visibility="gone"/>
+
+</RelativeLayout>

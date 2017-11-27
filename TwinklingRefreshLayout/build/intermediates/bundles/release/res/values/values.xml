@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Blue">#4674e7</color>
+    <color name="Green">#0ba62c</color>
+    <color name="Orange">#e75946</color>
+    <color name="Yellow">#f4d227</color>
+    <declare-styleable name="TwinklingRefreshLayout"><attr format="dimension" name="tr_max_head_height"/><attr format="dimension" name="tr_head_height"/><attr format="dimension" name="tr_max_bottom_height"/><attr format="dimension" name="tr_bottom_height"/><attr format="dimension" name="tr_overscroll_height"/><attr format="boolean" name="tr_enable_refresh"/><attr format="boolean" name="tr_enable_loadmore"/><attr format="boolean" name="tr_pureScrollMode_on"/><attr format="boolean" name="tr_overscroll_top_show"/><attr format="boolean" name="tr_overscroll_bottom_show"/><attr format="boolean" name="tr_enable_overscroll"/><attr format="dimension" name="tr_headerView"/><attr format="dimension" name="tr_bottomView"/><attr format="boolean" name="tr_floatRefresh"/><attr format="boolean" name="tr_autoLoadMore"/><attr format="boolean" name="tr_enable_keepIView"/><attr format="boolean" name="tr_showRefreshingWhenOverScroll"/><attr format="boolean" name="tr_showLoadingWhenOverScroll"/></declare-styleable>
+    <item name="ex_header" type="id"/>
+    <string name="app_name">Library</string>
+</resources>

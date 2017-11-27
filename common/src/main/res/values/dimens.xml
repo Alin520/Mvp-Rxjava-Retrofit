@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dialog_padding_center">10dp</dimen>
+    <dimen name="dialog_padding_no">0dp</dimen>
+    <dimen name="default_title_text_size">18sp</dimen>
+    <dimen name="default_text_size">14sp</dimen>
+    <dimen name="default_content_line_spacing_extra">4dp</dimen>
+
+</resources>

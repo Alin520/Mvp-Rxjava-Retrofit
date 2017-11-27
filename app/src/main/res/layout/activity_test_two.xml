@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.alin.hourse.common.view.RoundRectLinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/test_rllyt"
+    app:emptyView="@layout/layout_empty"
+    app:errorView="@layout/layout_error"
+    app:loadingView="@layout/layout_loading"
+    app:isShowContentView="true"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/second_tv"
+        android:layout_marginTop="30dp"
+        android:text="TestTwoActivity......"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:tag="我是code"
+        />
+</com.alin.hourse.common.view.RoundRectLinearLayout>

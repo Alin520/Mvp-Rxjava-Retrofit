@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_refresh_loading03.png.flat",
+        "source": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\refresh_loading03.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_refresh_loading06.png.flat",
+        "source": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\refresh_loading06.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_refresh_loading10.png.flat",
+        "source": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\refresh_loading10.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\796e3dc0d55372305e5f0187e13c3d4f\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_refresh_loading07.png.flat",
+        "source": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\refresh_loading07.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_view_sinaheader.xml.flat",
+        "source": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\bundles\\debug\\res\\layout\\view_sinaheader.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\796e3dc0d55372305e5f0187e13c3d4f\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_refresh_head_arrow.png.flat",
+        "source": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\refresh_head_arrow.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_refresh_loading01.png.flat",
+        "source": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\refresh_loading01.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_refresh_loading08.png.flat",
+        "source": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\refresh_loading08.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_refresh_loading04.png.flat",
+        "source": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\refresh_loading04.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\796e3dc0d55372305e5f0187e13c3d4f\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\796e3dc0d55372305e5f0187e13c3d4f\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\796e3dc0d55372305e5f0187e13c3d4f\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_refresh_loading12.png.flat",
+        "source": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\refresh_loading12.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_anim_loading_view.xml.flat",
+        "source": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\bundles\\debug\\res\\drawable\\anim_loading_view.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\796e3dc0d55372305e5f0187e13c3d4f\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\796e3dc0d55372305e5f0187e13c3d4f\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_refresh_loading02.png.flat",
+        "source": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\refresh_loading02.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_refresh_loading09.png.flat",
+        "source": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\refresh_loading09.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\796e3dc0d55372305e5f0187e13c3d4f\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_refresh_loading11.png.flat",
+        "source": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\refresh_loading11.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\796e3dc0d55372305e5f0187e13c3d4f\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_refresh_loading05.png.flat",
+        "source": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\refresh_loading05.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_view_bezier.xml.flat",
+        "source": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\bundles\\debug\\res\\layout\\view_bezier.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\nihailiang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\d99cfbad9e72533949b238002c47c6c1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_arrow.png.flat",
+        "source": "H:\\mvp\\TwinklingRefreshLayout\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_arrow.png"
+    }
+]

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CommomTool</string>
+    <string name="no_content">无内容</string>
+    <string name="loading_more">正在加载…</string>
+    <string name="loading_dialog_declear">数据正在加载中...</string>
+    <string name="testContextInitialize">请先在全局Application中调用 EasyHttp.init() 初始化！</string>
+</resources>
